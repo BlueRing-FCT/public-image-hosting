@@ -1,2 +1,2 @@
 # public-image-hosting
-public repo to host company images
+This repository is used to store FCT companies email images. Allowing for use of static and dynamic advertising.
